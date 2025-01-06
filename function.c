@@ -565,8 +565,8 @@ void MenuCustomer(){//Hien thi menu quan ly khach hang
 				printf("| [3]. Sua thong tin khach hang            |\n");//Sua thong tin sach
 				printf("| [4]. Khoa va mo khoa khach hang          |\n");
 				printf("| [5]. Tim kiem khach hang theo ten        |\n");
-				printf("| [6]. Cho khach hang muon sach            |\n");
-				printf("| [7]. Tra lai sach da muon                |\n");
+				printf("| [6]. DANG UPDATE                         |\n");
+				printf("| [7]. DANG UPDATE                         |\n");
 				printf("| [8]. Kiem tra du lieu nhap cho khach     |\n");
 				printf("| [9]. Thoat [EXIT]                        |\n");
 				printf("|==========================================|\n");
